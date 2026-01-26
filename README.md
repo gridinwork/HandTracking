@@ -5,6 +5,8 @@ visualization with a square-like palm (quad) and arm (shoulder/elbow/wrist).
 
 ![Screenshot](content/Screenshot_1.png)
 
+[![Watch the demo video](https://img.youtube.com/vi/M0BCqlvyWic/0.jpg)](https://www.youtube.com/watch?v=M0BCqlvyWic)
+
 ## Installation (Windows)
 1. Install Python 3.10+ if you prefer a global install.
 2. Or run the portable installer script:
