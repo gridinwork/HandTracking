@@ -1,0 +1,11 @@
+HandTracking
+Copyright 2026 Oleg Gridin, GEC Engineering
+
+This product includes software developed using Google MediaPipe
+(https://github.com/google-ai-edge/mediapipe), licensed under the Apache License 2.0.
+
+MediaPipe and Google are trademarks or projects of their respective owners.
+This repository is an independent engineering project and is not affiliated with or endorsed by Google.
+
+MediaPipe model files are not redistributed in this repository; they are provided by the
+mediapipe Python package installed from PyPI.
